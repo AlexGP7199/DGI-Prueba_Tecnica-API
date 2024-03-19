@@ -1,0 +1,12 @@
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\bin\Debug\net6.0\DGII.Utilities.deps.json
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\bin\Debug\net6.0\DGII.Utilities.dll
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\bin\Debug\net6.0\DGII.Utilities.pdb
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\obj\Debug\net6.0\DGII.Utilities.csproj.AssemblyReference.cache
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\obj\Debug\net6.0\DGII.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\obj\Debug\net6.0\DGII.Utilities.AssemblyInfoInputs.cache
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\obj\Debug\net6.0\DGII.Utilities.AssemblyInfo.cs
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\obj\Debug\net6.0\DGII.Utilities.csproj.CoreCompileInputs.cache
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\obj\Debug\net6.0\DGII.Utilities.dll
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\obj\Debug\net6.0\refint\DGII.Utilities.dll
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\obj\Debug\net6.0\DGII.Utilities.pdb
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Utilities\obj\Debug\net6.0\ref\DGII.Utilities.dll

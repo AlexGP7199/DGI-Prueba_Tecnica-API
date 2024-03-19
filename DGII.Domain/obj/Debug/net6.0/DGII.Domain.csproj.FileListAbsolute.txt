@@ -1,0 +1,14 @@
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\bin\Debug\net6.0\DGII.Domain.deps.json
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\bin\Debug\net6.0\DGII.Domain.runtimeconfig.json
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\bin\Debug\net6.0\DGII.Domain.dll
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\bin\Debug\net6.0\DGII.Domain.pdb
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\DGII.Domain.csproj.AssemblyReference.cache
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\DGII.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\DGII.Domain.AssemblyInfoInputs.cache
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\DGII.Domain.AssemblyInfo.cs
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\DGII.Domain.csproj.CoreCompileInputs.cache
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\DGII.Domain.dll
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\refint\DGII.Domain.dll
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\DGII.Domain.pdb
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\DGII.Domain.genruntimeconfig.cache
+E:\Practicas\.NETCore\DGI_Prueba\DGI-Prueba_Tecnica-API\DGII.Domain\obj\Debug\net6.0\ref\DGII.Domain.dll
