@@ -56,7 +56,7 @@ namespace DGII.Infrastructure.Persistence.Repositories
 
         public async Task<Contribuyente> GetContribuyenteByRncCedula(string rncCedula)
         {
-            return await _appDbContext.Contribuyentes.FirstOrDefaultAsync(x => x.RncCedula == rncCedula);
+            return await _appDbContext.Contribuyentes.AsNoTracking().FirstOrDefaultAsync(x => x.RncCedula == rncCedula);
         }
 
        

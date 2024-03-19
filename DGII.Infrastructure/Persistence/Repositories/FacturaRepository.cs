@@ -43,7 +43,7 @@ namespace DGII.Infrastructure.Persistence.Repositories
 
         public async Task<CantidadFacturasResponse> GetCantidadFacturasByContribuyenteId(int contribuyenteId)
         {
-           var data = await _appDbContext.Facturas.Where(x=> x.RncCedulaId.Equals(contribuyenteId)).CountAsync();
+           var data = await _appDbContext.Facturas.AsNoTracking().Where(x=> x.RncCedulaId.Equals(contribuyenteId)).CountAsync();
            var response = new CantidadFacturasResponse();
            response.cantidad = data;
            return response;
